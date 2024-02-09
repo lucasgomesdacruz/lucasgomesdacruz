@@ -1,4 +1,8 @@
 ### Olá! Eu sou o Lucas Gomes 👋
+✋🏼 Sobre mim
+🖥️ Desenvolvedor Front-End
+📚 Cursando análise e desenvolvimento de sistemas
+
 
 Me acompanhe nas redes sociais
 
@@ -6,7 +10,7 @@ Me acompanhe nas redes sociais
 
 ![Lucas Gomes GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasgomesdacruz&show_icons=true&theme=dracula)
 
-## 💻 Tech Stack & Skills
+## 💻 Skills
 
 
 <div style="display: inline_block"><br/>
