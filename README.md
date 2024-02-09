@@ -6,7 +6,7 @@ Me acompanhe nas redes sociais
 
 ![Lucas Gomes GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasgomesdacruz&show_icons=true&theme=dracula)
 
-## Tecnologias que eu uso no meu dia:
+## 💻 Tech Stack & Skills
 
 
 <div style="display: inline_block"><br/>
