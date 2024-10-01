@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Lucas Gomes 👋
 ✋🏼 Sobre mim <br>
 🖥️ Desenvolvedor Front-End <br>
-📚 Cursando análise e desenvolvimento de sistemas
+📚 Análise e desenvolvimento de sistemas
 
 
 Me acompanhe nas redes sociais
