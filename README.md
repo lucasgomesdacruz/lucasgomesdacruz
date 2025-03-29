@@ -1,7 +1,9 @@
 ### Olá! Eu sou o Lucas Gomes 👋
 ✋🏼 Sobre mim <br>
+Eu sou do Rio de Janeiro e busco constantemente aprimorar minhas habilidades. Minha stack, principal atualmente, é o JavaScript e seu ecossistema. Sou esforçado, acredito muito que o esforço supera o talento. Gosto de Economia e animes.
+
 🖥️ Desenvolvedor Front-End <br>
-📚 Análise e desenvolvimento de sistemas
+📚 Formado em Análise e desenvolvimento de sistemas
 
 
 Me acompanhe nas redes sociais
